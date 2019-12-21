@@ -1,0 +1,19 @@
+/* miniprogram/pages/teacher/teacher.wxss */
+
+.main{
+  margin-top: 64px;
+  background-color:rgb(132, 132, 223);
+  color: #fff;
+}
+.other{
+  margin-top: 12px;
+  background-color: rgb(132, 132, 223);
+  color: #fff;
+}
+.background {
+  width: 100%;
+  height: 100%;
+  position:fixed; 
+  background-size:100% 100%;
+  z-index: -1;
+}

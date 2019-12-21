@@ -1,0 +1,17 @@
+.header{
+  text-align:center;
+}
+.style{
+margin-top: 40px;
+background-color: #00aea1;
+color: #fff;
+}
+.style0{
+margin-top: 40px;
+background-color: #00aea1;
+color: #fff;
+}
+.end{
+  margin-top:50px;
+  text-align:center;
+}

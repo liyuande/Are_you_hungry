@@ -1,0 +1,17 @@
+<!--miniprogram/pages/student/student.wxml-->
+<view class='header'>学生食堂</view>
+
+
+
+
+<!--页面根标签-->
+<view class="content">
+<!--pics文件夹下的background.jpg文件-->
+<image class='background' src="../../images/student.jpg" mode="aspectFill"></image>
+<!--页面其它部分-->
+<button class="main" bindtap='xueyi'>学一</button>
+<button class="other">学二</button>
+<button class="other">学三</button>
+<button class="other">学四</button>
+<button class="other">学五</button>
+</view>

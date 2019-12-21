@@ -1,0 +1,9 @@
+<view class="header">B U P T</view>
+
+<view>
+<image src="../../images/logo.jpg"></image>
+</view>
+<button bindtap="numbers" class="style">学生食堂</button>
+<button bindtap="numbert" class="style0">教师食堂</button>
+
+<view class="end">Made by DrinkingMoreLava Group</view>

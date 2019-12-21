@@ -1,0 +1,29 @@
+<!--页面根标签-->
+<view class="content">
+<!--pics文件夹下的background.jpg文件-->
+<image class='background' src="../../../images/studentone.jpg" mode="aspectFill"></image>
+<!--页面其它部分-->
+
+
+<view class="container">
+
+  <view class='selection'>
+   
+
+    
+<view>如下为本楼层用餐人数</view>
+  <view>{{person_num}}</view>
+  
+  
+
+  </view>
+  <view class='selection'>
+    <view class='btns'>
+      <button bindtap='total'>点击查看当前排队人数</button>
+    </view>
+  </view>
+<image src="{{captchaImage}}" style="width:150px;height:100px;" ></image>
+</view>
+
+
+</view>

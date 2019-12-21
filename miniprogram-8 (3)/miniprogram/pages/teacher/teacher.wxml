@@ -1,0 +1,15 @@
+<!--miniprogram/pages/teacher/teacher.wxml-->
+<view class='header'>教师食堂</view>
+
+
+<!--页面根标签-->
+<view class="content">
+<!--pics文件夹下的background.jpg文件-->
+<image class='background' src="../../images/teacher.jpg" mode="aspectFill"></image>
+<!--页面其它部分-->
+<button class="main" >教一</button>
+<button class="other">教二</button>
+<button class="other">教三</button>
+<button class="other">教四</button>
+<button class="other">教五</button>
+</view>

@@ -1,0 +1,24 @@
+<!--miniprogram/pages/teacher/teacher one/teacher one.wxml-->
+<view class="container">
+
+  <view class='selection'>
+   
+   <image src='{{tempFilePaths}}' class='img' mode="aspectFit"></image>
+    
+
+  <view class='btns'>
+      <view bindtap='getResult'>刷新人流数</view>
+  </view>
+  
+  <view>如下为本楼层用餐人数</view>
+  <view>{{person_num}}</view>
+  
+  </view>
+  <view class='selection'>
+    <view class='btns'>
+      <button bindtap='chooseImage'>点击上传</button>
+    </view>
+  </view>
+
+</view>
+
